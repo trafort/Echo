@@ -2,7 +2,7 @@
 
 # Usage and Dependics
 
-Note: **Git*,and **Php* should Be Installted Before Prossceding through Usage
+Note: **Git**,and **Php** should Be Installted Before Prossceding through Usage
 
 Git Clone this repo
 ```https://github.com/trafort/Echo.git```
